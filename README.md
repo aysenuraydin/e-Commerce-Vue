@@ -1,2 +1,2 @@
 # e-Commerce-Vue - On Going...
-Vue.js
+E-commerce Project - Vue.js, Tailwind CSS
