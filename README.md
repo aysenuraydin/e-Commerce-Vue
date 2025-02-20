@@ -1,2 +1,2 @@
-# e-Commerce-Vue
+# e-Commerce-Vue - On Going...
 Vue.js
